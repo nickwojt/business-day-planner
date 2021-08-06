@@ -6,4 +6,4 @@ To use the application just type events into the hour you would like and click t
 
 Check it out here: https://nickwojt.github.io/business-day-planner/
 
-![Project]('./screenshot.png "Completed Project")
+![Project](./screenshot.png "Completed Project")
